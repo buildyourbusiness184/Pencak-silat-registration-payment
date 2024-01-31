@@ -18,7 +18,7 @@
 					<img src="p.png" alt="">
 				</div>
 				<div class="col-md-3 col-sm-12">
-					<p>Copyright PPSC JAYA MBP 2023</p>
+					<p>Copyright Build Your Business</p>
 					<img src="assets/images/gb.jpg" alt="" width="150px" height="150px"> 
 				</div>
 			</div>
