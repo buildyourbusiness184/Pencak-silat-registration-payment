@@ -147,7 +147,7 @@ if (isset($_SESSION['admin'])){
         <div class="row align-items-center justify-content-lg-between">
           <div class="col-lg-12">
             <div class="copyright text-center  text-lg-center  text-muted">
-              &copy; Copyright 2022 By <i class="fas fa-heart text-danger"></i> Cimacan_official
+              &copy; Copyright 2023 By <i class="fas fa-heart text-danger"></i> Build Your Business
             </div>
           </div>
         </div>
